@@ -10,3 +10,4 @@ Following are some of the links of my projects that I have deployed on firebase 
 8. https://nogozobooks.web.app/
 9. https://applending-bbc32.web.app/
 10. https://angular-cars-e9ff8.web.app/
+11. https://qrscanner-54b97.web.app/
